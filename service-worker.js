@@ -4,7 +4,7 @@ const urlsToCache = [
   '/index.html', 
   '/books.html', 
   '/about.html', 
-  '/contact.php', 
+  '/contact.html', 
   '/styles.css', 
   '/images/logo.png', 
   '/images/icon-192x192.png', 
